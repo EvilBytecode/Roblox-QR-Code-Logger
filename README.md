@@ -7,9 +7,10 @@
 ![Maintenance](https://img.shields.io/maintenance/no/2024)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/EvilBytecode/Roblox-QR-Code-Logger)
 
-
 Utilises Roblox QR Login Feature. IF Scanned User Has Full Access To Account,  Scannable QR code!
 A python script that generates a scam roblox qr code which lets you to in account if scanned. Developed to show how social engineering is performed.
+
+<img src="https://cdn.discordapp.com/attachments/1214548713398210570/1218660795630485666/image.png?ex=6608794f&is=65f6044f&hm=820fbd3cedd8314a3e827454e8d9626cc4fdbb431e2fc6e0fd5eb92b7b41dc59&" width="900">
 
 
 ## Supported Platforms
