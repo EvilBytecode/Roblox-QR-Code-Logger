@@ -12,7 +12,9 @@ A python script that generates a scam roblox qr code which lets you to in accoun
 
 <img src="https://cdn.discordapp.com/attachments/1214548713398210570/1218660795630485666/image.png?ex=6608794f&is=65f6044f&hm=820fbd3cedd8314a3e827454e8d9626cc4fdbb431e2fc6e0fd5eb92b7b41dc59&" width="900">
 
-
+## > NOTE
+- pip install seleniumbase
+- this will install chromedriver which is needed, after put the chromedriver in current dir and thats done.
 ## Supported Platforms
 - Windows 11 - `supported and tested`
 - Windows 10 - `supported and tested`
