@@ -8,7 +8,11 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 os.system('cls')
-
+os.system('TITLE QR Code Logger - Evilbytecode - %random%%random%')
+def cons(wuwu, huwu):
+    os.system(f"mode con: cols={wuwu} lines={huwu}")
+ # i luv batch <3 
+cons(160, 30)
 Write.Print(f"""
 .▄▄▄  ▄▄▄      ▄▄▄        ▄▄▄▄· ▄▄▌        ▐▄• ▄     ▄▄▌         ▄▄ •  ▄▄ • ▄▄▄ .▄▄▄  
 ▐▀•▀█ ▀▄ █·    ▀▄ █·▪     ▐█ ▀█▪██•  ▪      █▌█▌▪    ██•  ▪     ▐█ ▀ ▪▐█ ▀ ▪▀▄.▀·▀▄ █· | > [AUTHOR] Developed by @Evilbytecode aka @Codepulze
