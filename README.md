@@ -4,7 +4,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com)
 ![GitHub issues](https://img.shields.io/github/issues/EvilBytecode/Roblox-QR-Code-Logger)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/EvilBytecode/Roblox-QR-Code-Logger)
-![Maintenance](https://img.shields.io/maintenance/no/2024)
+![Maintenance](https://img.shields.io/maintenance/yes/2024)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/EvilBytecode/Roblox-QR-Code-Logger)
 
 Utilises Roblox QR Login Feature. IF Scanned User Has Full Access To Account,  Scannable QR code!
