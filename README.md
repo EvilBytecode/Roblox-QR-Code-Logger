@@ -10,11 +10,38 @@
 Utilises Roblox QR Login Feature. IF Scanned User Has Full Access To Account,  Scannable QR code!
 A python script that generates a scam roblox qr code which lets you to in account if scanned. Developed to show how social engineering is performed.
 
-<img src="https://cdn.discordapp.com/attachments/1214548713398210570/1218660795630485666/image.png?ex=6608794f&is=65f6044f&hm=820fbd3cedd8314a3e827454e8d9626cc4fdbb431e2fc6e0fd5eb92b7b41dc59&" width="900">
+<img src="https://cdn.discordapp.com/attachments/1202237859780886629/1218852035643052092/image.png?ex=66092b6a&is=65f6b66a&hm=5d289dab391ab172b6052bcf02d6e51ff51994a967b466b7184d187592a41172&" width="900">
 
 ## > NOTE
 - pip install seleniumbase
 - this will install chromedriver which is needed, after put the chromedriver in current dir and thats done.
+> ⚠️ __The Qr generated image is available for only `2 min`!__ 
+
+# 📖 Table of contents
+
+- [Usage](#-usage)
+- [Installation](#-installation)
+  - [Dependencies](#dependencies)
+  - [Supported Platforms](#supported-platforms)
+  - [Authors](#authors-)
+- [License](#-license)
+
+# 📈 Usage
+- Execute ```installer.bat``` this will download all requiered requirements.
+
+# 🛠 Installation
+
+For installation, there are a few requirements. You must follow these steps to avoid all python interpreter errors.
+
+## Dependencies
+
+- Chrome: **be sure to have the latest version**.
+- Python 3.9+
+- Python Modules (launch `installer.bat`)
+
+After installing all dependencies, you can start the script 🥳.
+
+
 ## Supported Platforms
 - Windows 11 - `supported and tested`
 - Windows 10 - `supported and tested`
@@ -25,5 +52,15 @@ A python script that generates a scam roblox qr code which lets you to in accoun
 - **For Educational Purposes Only**
 - **I decline any responsability in case of misuse of this code.**
 
-## SKIDDING ISNT ALLOWED!
+## Authors ❤
+
+<a href="https://github.com/Evilbytecode/Roblox-QR-Code-Logger/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Evilbytecode/Roblox-QR-Code-Logger" />
+    <img src="https://contrib.rocks/image?repo=MystificScripts/Roblox-Cookie-Refresh" />
+</a>
+<br>
+<br>
+
+# 📝 License
+- Distributed under the “Commons Clause” License Condition v1.0 for more information.
 - i dont like skids!! so dont be the one to skid, i would need to take legal action against you 😠!!
