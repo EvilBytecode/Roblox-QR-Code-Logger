@@ -12,9 +12,8 @@ A python script that generates a scam roblox qr code which lets you to in accoun
 
 <img src="https://cdn.discordapp.com/attachments/1202237859780886629/1218852035643052092/image.png?ex=66092b6a&is=65f6b66a&hm=5d289dab391ab172b6052bcf02d6e51ff51994a967b466b7184d187592a41172&" width="900">
 
+
 ## > NOTE
-- pip install seleniumbase
-- this will install chromedriver which is needed, after put the chromedriver in current dir and thats done.
 > ⚠️ __The Qr generated image is available for only `2 min`!__ 
 
 # 📖 Table of contents
@@ -64,3 +63,6 @@ After installing all dependencies, you can start the script 🥳.
 # 📝 License
 - Distributed under the “Commons Clause” License Condition v1.0 for more information.
 - i dont like skids!! so dont be the one to skid, i would need to take legal action against you 😠!!
+
+
+# Dont know how to install python and add it to path? https://github.com/KDot227/PythonPathFixer
